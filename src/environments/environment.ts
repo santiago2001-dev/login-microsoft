@@ -3,7 +3,11 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+   clienteID: '26da09b3-c63c-4fad-a442-db251fe080fb',
+   redirect: 'http://localhost:4200/',
+   authority: "https://login.microsoftonline.com/f509b338-5b06-42b0-9734-10ead32adeb7",
+
 };
 
 /*
